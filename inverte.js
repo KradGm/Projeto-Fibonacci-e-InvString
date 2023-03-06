@@ -1,4 +1,4 @@
-let string = 'string';
+let string = 'string';//Valor sendo invertido
 let inverted ='';   //console.log(string[0]);
 const write = document.querySelector('.res');
 write.innerHTML += `O texto sendo invertido é: ${string}<br>`;
